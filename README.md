@@ -1,4 +1,6 @@
 # QuantGen Group Journal Club Meetings
+
+- **[Fall, 2018](https://github.com/QuantGen/LAB-FALL-2018)**
 - **[Spring, 2018](https://github.com/QuantGen/LAB-SPRING-2018)**
 - **[Fall, 2017](https://github.com/QuantGen/LAB-FALL-2017)**
 - **[Summer, 2017](https://github.com/QuantGen/LAB-SUMMER-2017)** (Workshop)
