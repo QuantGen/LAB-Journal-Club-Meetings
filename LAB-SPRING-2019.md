@@ -8,7 +8,7 @@
 
 | Date           | Presenter     |  Topic        |  Materials    |
 | -------------  | ------------- | ------------- | ------------- |
-|   |  | |  |
+| 03/12/2019  |Agustin  | Presentation for Comprexensive Exam |  |
 |   |  | |  |
 |   |  | |  |
 |   |  | |  |
