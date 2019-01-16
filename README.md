@@ -1,6 +1,6 @@
 # QuantGen Group Journal Club Meetings
 
-- **[Spring, 2019](https://github.com/QuantGen/LAB-Journal-Club-Meetings/blob/master/LAB-SPRING-2019)**
+- **[Spring, 2019](https://github.com/QuantGen/LAB-Journal-Club-Meetings/blob/master/LAB-SPRING-2019.md)**
 - **[Fall, 2018](https://github.com/QuantGen/LAB-FALL-2018)**
 - **[Spring, 2018](https://github.com/QuantGen/LAB-SPRING-2018)**
 - **[Fall, 2017](https://github.com/QuantGen/LAB-FALL-2017)**
