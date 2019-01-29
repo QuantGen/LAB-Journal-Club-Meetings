@@ -24,5 +24,6 @@
 | 4/30/2019  |  | |  |
 |   |  | |  |
 
+## Additional Seminars
 
-
+* Department of Epidemiology & Biostatistics: http://www.epi.msu.edu/seminars/
