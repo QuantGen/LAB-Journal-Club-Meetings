@@ -16,7 +16,7 @@
 | 3/05/2019  | Spring Break |
 | 3/12/2019  |Agustin  | Presentation for Comprexensive Exam |  |
 | 3/19/2019  | Marco | TBD |  |
-| 3/26/2019  |  | |  |
+| 3/26/2019  | Bea | to be defined |  |
 | 4/02/2019  |  | |  |
 | 4/09/2019  |  | |  |
 | 4/16/2019  |  | |  |
