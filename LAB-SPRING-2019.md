@@ -9,6 +9,7 @@
 | Date           | Presenter     |  Topic        |  Materials    |
 | -------------  | ------------- | ------------- | ------------- |
 | 1/29/2019  | Organizational Meeting|
+| 2/01/2019  | Sorin Draghici | Discovering Disease Subtypes through the Integration of Multiple Types of Omics Data | https://web.pa.msu.edu/seminars/edge/ |
 | 2/05/2019  |  | |  |
 | 2/12/2019  | Filipe | eQTL Mapping using (permutation-based) FDR |  (distributed via e-mail) |
 | 2/19/2019  |  Alex Grueneberg | Slurm/New Pipelines/BGData |  |
