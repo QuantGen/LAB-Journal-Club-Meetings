@@ -17,7 +17,7 @@
 | 3/12/2019  |Agustin  | Presentation for Comprexensive Exam |  |
 | 3/19/2019  | Marco | TBD |  |
 | 3/26/2019  | Bea | to be defined |  |
-| 4/02/2019  |  | |  |
+| 4/02/2019  | Alexa | TBD |  |
 | 4/09/2019  |  | |  |
 | 4/16/2019  |  | |  |
 | 4/23/2019  |  | |  |
@@ -27,3 +27,4 @@
 ## Additional Seminars
 
 * Department of Epidemiology & Biostatistics: http://www.epi.msu.edu/seminars/
+* Science at the Edge: https://web.pa.msu.edu/seminars/edge/
