@@ -19,6 +19,7 @@
 | 3/26/2019  | Bea | to be defined |  |
 | 4/02/2019  | Alexa | TBD |  |
 | 4/09/2019  |  | |  |
+| 4/11/2019  | Tony Merriman | Genetic approaches to gout: new insights and clinical relevance | http://www.epi.msu.edu/seminars/ |
 | 4/16/2019  |  | |  |
 | 4/23/2019  |  | |  |
 | 4/30/2019  |  | |  |
