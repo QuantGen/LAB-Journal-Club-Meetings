@@ -1,32 +1,45 @@
-# Lab Meetings QuantGen Group Spring 2019
+# Spring 2019, Lab-meetings and relevant events
 
-## When? Every Tuesday from noon-1pm
 
-## Where? IQ (775 Woodlot Dr.)
 
 [Group's Website](http://quantgen.github.io/)
 
+## Lab Meeting Schedule
+
+**(Every Tuesday from noon-1pm, 2nd floor of IQ-Building, 775 Woodlot Dr.)**
+
 | Date           | Presenter     |  Topic        |  Materials    |
 | -------------  | ------------- | ------------- | ------------- |
-| 1/29/2019  | Organizational Meeting|
+| T. Jan 29th  | Organizational Meeting|
+| T. Feb. 5th  |  Ana & Gustavo | Specific Aims(will discuss drafts of Specific Aims page for an R01 renewal and and R21 proposal) | internally distributed via e-mail. |
+| T. Feb. 12th  | Filipe | eQTL Mapping using (permutation-based) FDR |  (distributed via e-mail) |
+| T. Feb. 19th  |  Alex Grueneberg | Slurm/New Pipelines/BGData |  |
+| T. Feb. 26th  |  | |  |
+| T. March 5th  | Spring Break |
+| T. March 12th  |Agustin  | Presentation for Comprexensive Exam |  |
+| T. March 19th | Marco | TBD |  |
+| T. March 26th  | Bea | to be defined |  |
+| T. April 2nd  | Alexa | TBD |  |
+| T. April 9th   |  | |  |
+| T. April 16th   |  | |  |
+| T. April 23rd   |  | |  |
+| T. April 30th    |  | |  |
+| T. May 7th  |  | |  |
+| T. May 12th |  | |  |
+| T. May 19th |  | |  |
+| T. May 26th |  | |  |
+
+
+## Highlighed MSU-events (seminars and alike)
+
+| Date | Presenter | Topic | Additional Information |
 | 2/01/2019  | Sorin Draghici | Discovering Disease Subtypes through the Integration of Multiple Types of Omics Data | https://web.pa.msu.edu/seminars/edge/ |
-| 2/05/2019  |  | |  |
-| 2/12/2019  | Filipe | eQTL Mapping using (permutation-based) FDR |  (distributed via e-mail) |
-| 2/19/2019  |  Alex Grueneberg | Slurm/New Pipelines/BGData |  |
-| 2/26/2019  |  | |  |
-| 3/05/2019  | Spring Break |
-| 3/12/2019  |Agustin  | Presentation for Comprexensive Exam |  |
-| 3/19/2019  | Marco | TBD |  |
-| 3/26/2019  | Bea | to be defined |  |
-| 4/02/2019  | Alexa | TBD |  |
-| 4/09/2019  |  | |  |
 | 4/11/2019  | Tony Merriman | Genetic approaches to gout: new insights and clinical relevance | http://www.epi.msu.edu/seminars/ |
-| 4/16/2019  |  | |  |
-| 4/23/2019  |  | |  |
-| 4/30/2019  |  | |  |
-|   |  | |  |
 
 ## Additional Seminars
 
-* Department of Epidemiology & Biostatistics: http://www.epi.msu.edu/seminars/
-* Science at the Edge: https://web.pa.msu.edu/seminars/edge/
+* [Department of Epidemiology & Biostatistics Seminar Series](http://www.epi.msu.edu/seminars/)
+* [Science at the Edge](https://web.pa.msu.edu/seminars/edge/)
+* [Department of Statistics & Probability Colloquium](https://stt.natsci.msu.edu/events/upcoming-events/)
+
+
