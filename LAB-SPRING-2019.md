@@ -11,7 +11,7 @@
 | Date           | Presenter     |  Topic        |  Materials    |
 | -------------  | ------------- | ------------- | ------------- |
 | T. Jan 29th  | Organizational Meeting|
-| T. Feb. 5th  |  Ana & Gustavo | Specific Aims for  R01 and an R21 proposals | internally distributed via e-mail. |
+| T. Feb. 5th  |  Ana & Gustavo | Specific Aims for  R01 and an R21 proposals | (distributed via e-mail) |
 | T. Feb. 12th  | Filipe | eQTL Mapping using (permutation-based) FDR |  (distributed via e-mail) |
 | T. Feb. 19th  |  Alex Grueneberg | Slurm/New Pipelines/BGData |  |
 | T. Feb. 26th  |  | |  |
