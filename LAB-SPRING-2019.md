@@ -14,7 +14,7 @@
 | T. Feb. 5th  |  Ana & Gustavo | Specific Aims for  R01 and an R21 proposals | (distributed via e-mail) |
 | T. Feb. 12th  | Filipe | eQTL Mapping using (permutation-based) FDR |  (distributed via e-mail) |
 | T. Feb. 19th  |  Alex Grueneberg | Slurm/New Pipelines/BGData |  |
-| T. Feb. 26th  |  Christina Azodi | Deep learning for Genomic Prediction | * Meeting from 2-3 pm |
+| T. Feb. 26th 2-3pm |  Christina Azodi | Deep learning for Genomic Prediction | *Note time change |
 | T. March 5th  | Spring Break |
 | T. March 12th  |Agustin  | Presentation for Comprexensive Exam |  |
 | T. March 19th | Marco | TBD |  |
