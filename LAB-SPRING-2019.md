@@ -33,6 +33,7 @@
 ## Highlighed MSU-events (seminars and alike)
 
 | Date | Presenter | Topic | Additional Information |
+| -------------  | ------------- | ------------- | ------------- |
 | 2/01/2019  | Sorin Draghici | Discovering Disease Subtypes through the Integration of Multiple Types of Omics Data | https://web.pa.msu.edu/seminars/edge/ |
 | 4/11/2019  | Tony Merriman | Genetic approaches to gout: new insights and clinical relevance | http://www.epi.msu.edu/seminars/ |
 
