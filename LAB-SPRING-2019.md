@@ -12,7 +12,7 @@
 | -------------  | ------------- | ------------- | ------------- |
 | T. Jan 29th  | Organizational Meeting|
 | T. Feb. 5th  |  Ana & Gustavo | Specific Aims for  R01 and an R21 proposals | (distributed via e-mail) |
-| T. Feb. 12th  | Filipe | Using LASSO to identify expression QRLs (eQTLs) |  (distributed via e-mail) |
+| T. Feb. 12th  | Filipe | Using LASSO to identify expression QTLs (eQTLs) |  (distributed via e-mail) |
 | T. Feb. 19th  |  Alex Grueneberg | Slurm/New Pipelines/BGData |  |
 | T. Feb. 26th 2-3pm |  Christina Azodi | Deep learning for Genomic Prediction | *Note time change* |
 | T. March 5th  | Spring Break |
