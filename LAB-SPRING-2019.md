@@ -10,24 +10,24 @@
 
 | Date           | Presenter     |  Topic        |  Materials    |
 | -------------  | ------------- | ------------- | ------------- |
-| T. Jan 29th  | Organizational Meeting|
-| T. Feb. 5th  |  Ana & Gustavo | Specific Aims for  R01 and an R21 proposals | (distributed via e-mail) |
-| T. Feb. 12th  | Filipe | Using LASSO to identify expression QTLs (eQTLs) |  (distributed via e-mail) |
-| T. Feb. 19th  |  Alex Grueneberg | Slurm/New Pipelines/BGData |  |
-| T. Feb. 26th 2-3pm |  Christina Azodi | Deep learning for Genomic Prediction | *Note time change* |
-| T. March 5th  | Spring Break |
-| T. March 12th  |Agustin  | Presentation for Comprexensive Exam |  |
-| T. March 19th | Marco | TBD |  |
-| T. March 26th  | Bea | to be defined |  |
-| T. April 2nd  | Alexa | TBD |  |
-| T. April 9th   |  | |  |
-| T. April 16th   |  | |  |
-| T. April 23rd   |  | |  |
-| T. April 30th    |  | |  |
-| T. May 7th  |  | |  |
-| T. May 12th |  | |  |
-| T. May 19th |  | |  |
-| T. May 26th |  | |  |
+| Tu. Jan 29th  | Organizational Meeting|
+| Tu. Feb. 5th  |  Ana & Gustavo | Specific Aims for  R01 and an R21 proposals | (distributed via e-mail) |
+| Tu. Feb. 12th  | Filipe | Using LASSO to identify expression QTLs (eQTLs) |  (distributed via e-mail) |
+| Tu. Feb. 19th  |  Alex Grueneberg | Slurm/New Pipelines/BGData |  |
+| Tu. Feb. 26th 2-3pm |  Christina Azodi | Deep learning for Genomic Prediction | *Note time change* |
+| Tu. March 5th  | Spring Break |
+| Tu. March 12th  |Agustin  | Presentation for Comprexensive Exam |  |
+| Tu. March 19th | Marco | TBD |  |
+| Tu. March 26th  | Bea | to be defined |  |
+| Tu. April 2nd  | Alexa | TBD |  |
+| Tu. April 9th   |  | |  |
+| Tu. April 16th   |  | |  |
+| Tu. April 23rd   |  | |  |
+| Tu. April 30th    |  | |  |
+| Tu. May 7th  |  | |  |
+| Tu. May 12th |  | |  |
+| Tu. May 19th |  | |  |
+| Tu. May 26th |  | |  |
 
 
 ## Highlighed MSU-events (seminars and alike)
