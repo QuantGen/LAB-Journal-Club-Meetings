@@ -13,7 +13,7 @@
 | Tu. Jan 29th  | Organizational Meeting|
 | Tu. Feb. 5th  |  Ana & Gustavo | Specific Aims for  R01 and an R21 proposals | (distributed via e-mail) |
 | Tu. Feb. 12th  | Filipe | Using LASSO to identify expression QTLs (eQTLs) |  (distributed via e-mail) |
-| Tu. Feb. 19th  |  Alexander Grueneberg | An ALTREP Reimplementation of BEDMatrix |  |
+| Tu. Feb. 19th  |  Alexander Grueneberg | An ALTREP Reimplementation of BEDMatrix | [Slides](https://slides.agrueneberg.info/2019-02-19-bedmatrix-altrep-reimplementation.html#1) |
 | Tu. Feb. 26th 2-3pm |  Christina Azodi | Deep learning for Genomic Prediction | *Note time change* |
 | Tu. March 5th  | Spring Break |
 | Tu. March 12th  |Agustin  | Presentation for Comprexensive Exam |  |
