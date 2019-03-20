@@ -18,9 +18,9 @@
 | Tu. March 5th  | Matias Schrauf-Garcia | Waveletes-basis for genomic prediction? | Will be distributed...|
 | Tu. March 12th  |Agustin  | Presentation for Comprexensive Exam |  |
 | Tu. March 19th | Marco | TBD |  |
-| Tu. March 26th  | Bea | to be defined |  |
+| Tu. March 26th  |  |  |  |
 | Tu. April 2nd  | Alexa | TBD |  |
-| Tu. April 9th   |  | |  |
+| Tu. April 9th   | Bea | Analysis of Genomic Prediction Accuracy |  |
 | Tu. April 16th   |  | |  |
 | Tu. April 23rd   |  | |  |
 | Tu. April 30th    |  | |  |
