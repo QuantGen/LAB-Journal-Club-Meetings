@@ -20,8 +20,8 @@
 | Tu. March 19th | Marco | TBD |  |
 | Tu. March 26th  |  |  |  |
 | Tu. April 2nd  | Alexa | TBD |  |
-| Tu. April 9th   | Bea | Analysis of Genomic Prediction Accuracy |  |
-| Tu. April 16th   |  | |  |
+| Tu. April 9th   | Rebecca Knickmeyer | Genetic Influences on Research Domain Criteria (RDoC) constructs and Associated Neuroimaging Phenotypes |  |
+| Tu. April 16th   | Bea |Analysis of Genomic Prediction Accuracy |  |
 | Tu. April 23rd   |  | |  |
 | Tu. April 30th    |  | |  |
 | Tu. May 7th  |  | |  |
