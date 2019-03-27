@@ -23,7 +23,7 @@
 | Tu. April 9th   | Tony Merriman |  |  |
 | Tu. April 16th   | Bea |Analysis of Genomic Prediction Accuracy |  |
 | Tu. April 23rd   | Rebecca Knickmeyer | Genetic Influences on Research Domain Criteria (RDoC) constructs and Associated Neuroimaging Phenotypes |  |
-| Tu. April 30th    |  | |  |
+| Tu. April 30th    |Fernando  |Dimensionality reduction of phenotypic data in UKB |  |
 | Tu. May 7th  |  | |  |
 | Tu. May 12th |  | |  |
 | Tu. May 19th |  | |  |
