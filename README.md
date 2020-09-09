@@ -1,5 +1,6 @@
 # QuantGen Group Journal Club Meetings
 
+- **[Fall, 2020](https://github.com/QuantGen/LAB-FALL-2020)**
 - **[Summer, 2020](https://github.com/QuantGen/LAB-SUMMER-2020)**
 - **[Spring, 2020](https://github.com/QuantGen/LAB-SPRING-2020)**
 - **[Fall, 2019](https://github.com/QuantGen/LAB-FALL-2019)**
