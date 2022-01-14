@@ -1,4 +1,5 @@
 # QuantGen Group Journal Club Meetings
+- **[Spring, 2022](https://github.com/QuantGen/LAB-SPRING-2022)**
 - **[Fall, 2021](https://github.com/QuantGen/LAB-FALL-2021)**
 - **[Summer, 2021](https://github.com/QuantGen/LAB-SUMMER-2021)**
 - **[Spring, 2021](https://github.com/QuantGen/LAB-SPRING-2021)**
